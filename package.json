@@ -1,0 +1,23 @@
+{
+  "name": "hw___7",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAX50K/HW___7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAX50K/HW___7/issues"
+  },
+  "homepage": "https://github.com/MAX50K/HW___7#readme",
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}
